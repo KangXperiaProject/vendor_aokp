@@ -33,10 +33,3 @@
 #add_lunch_combo aokp_ville-userdebug
 #add_lunch_combo aokp_vivow-userdebug
 #add_lunch_combo aokp_wingray-userdebug
-add_lunch_combo aokp_es209ra-userdebug
-add_lunch_combo aokp_anzu-userdebug
-add_lunch_combo aokp_urushi-userdebug
-add_lunch_combo aokp_smultron-userdebug
-add_lunch_combo aokp_satsuma-userdebug
-add_lunch_combo aokp_zeus-userdebug
-add_lunch_combo aokp_robyn-userdebug
