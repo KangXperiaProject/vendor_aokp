@@ -21,4 +21,3 @@
 #    $(LOCAL_DIR)/vibrantmtd.mk \
 #    $(LOCAL_DIR)/i9100.mk \
 #    $(LOCAL_DIR)/i9100g.mk
-
